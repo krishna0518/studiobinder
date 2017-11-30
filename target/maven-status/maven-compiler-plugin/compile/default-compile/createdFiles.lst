@@ -1,0 +1,7 @@
+com\studio\studiobinder\dao\RegistrationDao.class
+com\studio\studiobinder\pojo\RegistrationPojo.class
+com\studio\studiobinder\StudiobinderApplication.class
+com\studio\studiobinder\service\RegistrationService.class
+com\studio\studiobinder\controllers\RegistrationController.class
+com\studio\studiobinder\pojo\Rolepojo.class
+com\studio\studiobinder\service\RegistrationServices.class
